@@ -40,7 +40,7 @@
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:onClick="displayData"
-        android:text="Display" />
+        android:text="Show" />
 
     <TextView
         android:id="@+id/textView"
